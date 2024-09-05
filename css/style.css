@@ -2,18 +2,18 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Libre+Bodoni:ital,wght@0,400..700;1,400..700&family=Mulish:ital,wght@0,200..1000;1,200..1000&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
 
-body {font-family: "Mulish", sans-serif; text-align: justify; background-color: #e7d7c1; ;}
+body {font-family: "Mulish", sans-serif; text-align: justify; background-color: #fff8f0; ;}
 
 h1 {font-family: "Rubik", sans-serif; font-weight: 900; text-align: left; }
 
-h1 + p {font-family: "Libre Bodoni", serif; color: #735751; }
+h1 + p {font-family: "Libre Bodoni", serif; color: #98b9f2; }
 
 p + h4 {text-decoration: underline;}
 
 #semi {font-weight: 600;}
 
-h5, h2, h1 {color: #8c1c13;}
+h5, h2, h1 {color: #6f9ceb;}
 
-
+ol {background-color:#bfdbf7 ;}
 
 
